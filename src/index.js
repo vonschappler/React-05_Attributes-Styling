@@ -1,6 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
+const 
+
 ReactDOM.render(
   <div>
     <h1 className='heading'>My Favourite Foods</h1>
